@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-right: 20px;
+    margin: 0 10px;
+    min-width: 180px;
+    border-right: 2px solid gray;
+}
+
+.display-prova{
+    overflow: auto;
+    width: 100%;
+}
+
+.menu>a {
+    text-decoration: none;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.menu>a:hover {
+    background-color: lightblue;
+}
+
+.Principal{
+    display: flex;
+    width: 100%;
+}
