@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/politicos/static/css/main.3d76612b.css",
+    "main.js": "/politicos/static/js/main.bb6c024c.js",
+    "static/js/453.2a82e7ac.chunk.js": "/politicos/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/politicos/index.html",
+    "main.3d76612b.css.map": "/politicos/static/css/main.3d76612b.css.map",
+    "main.bb6c024c.js.map": "/politicos/static/js/main.bb6c024c.js.map",
+    "453.2a82e7ac.chunk.js.map": "/politicos/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d76612b.css",
+    "static/js/main.bb6c024c.js"
+  ]
+}
